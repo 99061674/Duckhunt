@@ -1,0 +1,38 @@
+#Achtergrond {
+    margin:  0 auto;
+    width: 1250px;
+    height: 700px;
+    background-image: url(../img/stage.png);
+    background-repeat: repeat-x;
+}
+
+body {
+    background-image: url(../img/stage.png);
+}
+
+#Duck {
+    position: absolute;
+    top: 175px;
+    left: 600px;
+}
+
+#Hit {
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+#Miss {
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+#Hit2 {
+    margin-left: 50px;
+    margin-top: -95px;
+    font-size: 20px;
+}
+#Miss2 {
+    margin-left: 50px;
+    margin-top: 25px;
+    font-size: 20px;
+}
